@@ -22,3 +22,7 @@ tecnologia utilizada: Python 3, PyPDF2, nltk, streamlit
 - Separando as palavras
 - Convertendo em minúsculas
 - Removendo pontuação e caracteres especiais
+
+### Considerações Finais:
+
+- Não consegui implementar a comparação de desempenho entre fazer a busca por árvore ou por lista 
