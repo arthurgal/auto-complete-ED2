@@ -9,8 +9,16 @@ tecnologia utilizada: Python 3, PyPDF2, nltk, streamlit
 
 - clone o repositorio
 - execute o seguinte comando:
-  ~~~javascript
+  ~~~shell
   streamlit run front.py
 - Vai abrir uma aba no seu navegador
 - digite qual prefixo deseja buscar
 - será retornado as palavras que auto completam esse prefixo
+
+### Discrição dos métodos utilizados:
+
+- Foi implementado a estrutura de dados - árvore
+- Em seguida pegamos o arquivo em pdf para tratar o texto
+- Separando as palavras
+- Convertendo em minúsculas
+- Removendo pontuação e caracteres especiais
