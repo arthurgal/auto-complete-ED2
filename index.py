@@ -115,18 +115,6 @@ class AVLTree:
         else:
             self._autocomplete_helper(node.left, prefix, suggestions)
             self._autocomplete_helper(node.right, prefix, suggestions)
-
-
-# def extract_words_from_pdf(pdf_file_path):
-#     words = []
-#     with open(pdf_file_path, 'rb') as file:
-#         pdf_reader = pdf.PdfReader(file)
-#         num_pages = len(pdf_reader.pages)
-#         for page_num in range(num_pages):
-#             page = pdf_reader.pages[page_num]
-#             text = page.extract_text()
-#             words += re.findall(r'\b\w+\b', text)
-#     return words
             
 
 
