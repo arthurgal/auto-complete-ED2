@@ -25,4 +25,7 @@ tecnologia utilizada: Python 3, PyPDF2, nltk, streamlit
 
 ### Considerações Finais:
 
-- Não consegui implementar a comparação de desempenho entre fazer a busca por árvore ou por lista 
+- Não consegui implementar a comparação de desempenho entre fazer a busca por árvore ou por lista
+
+### Video explicativo:
+- https://www.loom.com/share/02223837c4594e34bd2825f6777045a2?sid=2a43d601-3145-4e8b-aa58-13b632a8996d
